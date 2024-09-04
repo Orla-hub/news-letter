@@ -1,0 +1,54 @@
+.entry {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+    border: 3px solid black;
+    padding: 10px;
+    width: 180px;
+}
+.main {
+    width: 380px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.btn{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 10px;
+    border: #121212 3px solid;
+    width: 180px;
+    background-color: black;
+    font-weight: bold;
+    
+}
+.img {
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    width: 250px;
+    color: #121212;
+    margin-left: auto;
+    margin-right: auto;
+}
+.last {
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+}
+button {
+    color: white;
+}
+
+::placeholder {
+    text-align: center;
+}
+a:hover {
+    color: blue;
+}
+a {
+    color: black;
+}
